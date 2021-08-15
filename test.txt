@@ -1,1 +1,4 @@
-test1
+Git flow init
+test2
+
+feature2
